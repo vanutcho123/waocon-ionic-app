@@ -1,0 +1,7 @@
+{
+  "name": "waocon-mobile-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
